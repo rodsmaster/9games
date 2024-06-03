@@ -1,2 +1,2 @@
-# 9games
-game prototype website design
+## 9GAMES
+<p align="center">Creating a website for a game project</p>
